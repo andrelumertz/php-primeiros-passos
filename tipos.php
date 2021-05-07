@@ -4,8 +4,6 @@ $idade = 26;
 
 $salario = 1000.30;
 
-
-
 echo gettype($salario);
 
 $soma = 2 + 2;
