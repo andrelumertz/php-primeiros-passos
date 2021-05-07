@@ -1,1 +1,3 @@
 # Escopo
+
+Alteração de dev
