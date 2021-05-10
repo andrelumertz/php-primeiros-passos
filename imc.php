@@ -10,9 +10,10 @@ if ($imc < 18.5) {
     echo "abaixo";
 } elseif ($imc < 25) {
     echo "dentro";
-} else {
+} else {  
     echo "acima";
 }
 
-echo " do recomendado";
+echo "do recomendado";
+
 
