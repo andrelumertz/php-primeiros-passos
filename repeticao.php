@@ -13,7 +13,9 @@ for ($contador= 1; $contador <= 15; $contador++) {
       echo "$contador" . PHP_EOL;
     }
 };
+
 // end break and continue 
+
 
 /*
 
@@ -58,9 +60,6 @@ Assim, se o resto de $contador for igual a 0, o código não é executado. Do co
 Quando estamos desenvolvendo no mundo real, é muito comum encontrarmos essa variável $contador com o nome de $i (de "iteração). No PhpStorm, se pressionarmos "Shift + F6" com uma variável selecionada, poderemos renomeá-la, aplicando essa alteração a todos os campos em que ela aparece.
 
 Vamos para o próximo desafio? A ideia agora é exibir a tabuada de determinado número. Ou seja, temos um número armazenado em uma variável qualquer, e queremos exibir o resultado da sua multiplicação de 1 até 9. 
-
-
-
 
 
 */
