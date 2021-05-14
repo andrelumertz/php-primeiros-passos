@@ -1,6 +1,6 @@
 <?php 
 
-echo "Olá mundo";
+echo "Olá mundo"; // print or console.log do PHP
 
 
 
